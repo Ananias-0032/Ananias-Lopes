@@ -17,20 +17,20 @@ const CONFIG = {
     {
       title: " Completely Changed",
       category: "Talking Head",
-      src: "videos/video-1.mp4",
-      poster: "thumbs/video-1.jpg",
+      src: "video-1.mp4",
+      poster: "video-1.jpg",
     },
     {
       title: " Finish It",
       category: "Podcast Re-edit",
-      src: "videos/video-2.mp4",
-      poster: "thumbs/video-2.jpg",
+      src: "video-2.mp4",
+      poster: "video-2.jpg",
     },
     {
       title: "Short-Form Content",
       category: "Re-edit",
-      src: "videos/video-3.mp4",
-      poster: "thumbs/video-3.jpg",
+      src: "video-3.mp4",
+      poster: "video-3.jpg",
     },
   ],
 };
